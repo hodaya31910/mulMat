@@ -1,0 +1,29 @@
+X:\שנה ב\חישוב מקבילי ומבוזר\הודיה ואפרת\mulMat\mulMat\bin\Debug\mulMat.exe.config
+X:\שנה ב\חישוב מקבילי ומבוזר\הודיה ואפרת\mulMat\mulMat\bin\Debug\mulMat.exe
+X:\שנה ב\חישוב מקבילי ומבוזר\הודיה ואפרת\mulMat\mulMat\bin\Debug\mulMat.pdb
+X:\שנה ב\חישוב מקבילי ומבוזר\הודיה ואפרת\mulMat\mulMat\obj\Debug\mulMat.csprojResolveAssemblyReference.cache
+X:\שנה ב\חישוב מקבילי ומבוזר\הודיה ואפרת\mulMat\mulMat\obj\Debug\mulMat.Properties.Resources.resources
+X:\שנה ב\חישוב מקבילי ומבוזר\הודיה ואפרת\mulMat\mulMat\obj\Debug\mulMat.csproj.GenerateResource.Cache
+X:\שנה ב\חישוב מקבילי ומבוזר\הודיה ואפרת\mulMat\mulMat\obj\Debug\mulMat.exe
+X:\שנה ב\חישוב מקבילי ומבוזר\הודיה ואפרת\mulMat\mulMat\obj\Debug\mulMat.pdb
+X:\שנה ב\חישוב מקבילי ומבוזר\הודיה ואפרת\mulMat\mulMat\obj\Debug\mulMat.Form1.resources
+D:\הודיה ואפרת\mulMat\mulMat\bin\Debug\mulMat.exe.config
+D:\הודיה ואפרת\mulMat\mulMat\bin\Debug\mulMat.exe
+D:\הודיה ואפרת\mulMat\mulMat\bin\Debug\mulMat.pdb
+D:\הודיה ואפרת\mulMat\mulMat\obj\Debug\mulMat.csprojAssemblyReference.cache
+D:\הודיה ואפרת\mulMat\mulMat\obj\Debug\mulMat.Form1.resources
+D:\הודיה ואפרת\mulMat\mulMat\obj\Debug\mulMat.Properties.Resources.resources
+D:\הודיה ואפרת\mulMat\mulMat\obj\Debug\mulMat.csproj.GenerateResource.cache
+D:\הודיה ואפרת\mulMat\mulMat\obj\Debug\mulMat.csproj.CoreCompileInputs.cache
+D:\הודיה ואפרת\mulMat\mulMat\obj\Debug\mulMat.exe
+D:\הודיה ואפרת\mulMat\mulMat\obj\Debug\mulMat.pdb
+C:\Users\הודיה\Documents\הודיה ואפרת\mulMat\mulMat\bin\Debug\mulMat.exe.config
+C:\Users\הודיה\Documents\הודיה ואפרת\mulMat\mulMat\bin\Debug\mulMat.exe
+C:\Users\הודיה\Documents\הודיה ואפרת\mulMat\mulMat\bin\Debug\mulMat.pdb
+C:\Users\הודיה\Documents\הודיה ואפרת\mulMat\mulMat\obj\Debug\mulMat.csprojAssemblyReference.cache
+C:\Users\הודיה\Documents\הודיה ואפרת\mulMat\mulMat\obj\Debug\mulMat.Form1.resources
+C:\Users\הודיה\Documents\הודיה ואפרת\mulMat\mulMat\obj\Debug\mulMat.Properties.Resources.resources
+C:\Users\הודיה\Documents\הודיה ואפרת\mulMat\mulMat\obj\Debug\mulMat.csproj.GenerateResource.cache
+C:\Users\הודיה\Documents\הודיה ואפרת\mulMat\mulMat\obj\Debug\mulMat.csproj.CoreCompileInputs.cache
+C:\Users\הודיה\Documents\הודיה ואפרת\mulMat\mulMat\obj\Debug\mulMat.exe
+C:\Users\הודיה\Documents\הודיה ואפרת\mulMat\mulMat\obj\Debug\mulMat.pdb
